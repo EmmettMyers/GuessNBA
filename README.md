@@ -9,5 +9,4 @@ Tools used:
  - JavaScript - React
  - Python - Flask
  - CSS - Tailwind
- - HTML
  - Beautiful Soup
