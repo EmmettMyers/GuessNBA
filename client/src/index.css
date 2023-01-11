@@ -1,0 +1,76 @@
+@media only screen and (max-width: 499px) {
+    #homeLogo {
+        width: 95vw;
+        margin-top: 4vh;
+        top: 10vh;
+        filter: drop-shadow(0 0 8px black);
+    }
+    #motto {
+        font-size: 6vw;
+        top: 34vh;
+        filter: drop-shadow(0 0 8px black);
+    }
+    .modeBtn {
+        font-size: 8vw;
+        width: 60vw;
+        cursor: pointer;
+        text-align: center;
+        font-weight: bold;
+        margin-top: 1vh;
+        position: absolute;
+    }
+    .modeBtn:hover {
+        filter: brightness(80%);
+        transition: .2s;
+    }
+    #btn1 {
+        top: 50vh;
+    }
+    #btn2 {
+        top: 60vh;
+    }
+    #btn3 {
+        top: 70vh;
+    }
+}
+
+@media only screen and (min-width: 500px) {
+    #homeLogo {
+        width: 500px;
+        margin-top: 10px;
+        top: 50px;
+        filter: drop-shadow(0 0 8px black);
+    }
+    #motto {
+        font-size: 30px;
+        top: 275px;
+        filter: drop-shadow(0 0 8px black);
+    }
+    .modeBtn {
+        font-size: 40px;
+        width: 375px;
+        cursor: pointer;
+        text-align: center;
+        font-weight: bold;
+        margin-top: 50px;
+        position: absolute;
+        filter: drop-shadow(0 0 8px black);
+    }
+    .modeBtn:hover {
+        filter: brightness(80%);
+        transition: .2s;
+    }
+    #btn1 {
+        top: 400px;
+    }
+    #btn2 {
+        top: 500px;
+    }
+    #btn3 {
+        top: 600px;
+    }
+    #courtPic {
+        width: 100vw;
+        object-fit:fill;
+    }
+}
