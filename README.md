@@ -2,7 +2,8 @@
 
 GuessNBA is a mobile-based web game that I created in a few days during winter break of my Freshman year in college.
 
-It scrapes NBA data from the website basketball-reference.com, finds information about a player, and allows the user to guess the player based on their stats.
+It uses BeautifulSoup to scrape NBA data from the website basketball-reference.com and find information about a random player.
+The user then has to guess the player based on three of their stats, or more if they need hints.
 
 Tools used:
  - JavaScript - React
