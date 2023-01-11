@@ -51,20 +51,22 @@ input {
     margin-bottom: 15px;
   }
   #winTxt1 {
-    font-size: 50px;
+    margin-top: 20px;
+    font-size: 60px;
   }
   #winTxt2 {
-    font-size: 8vw;
+    margin-top: 60px;
+    font-size: 40px;
   }
   #winTxt3 {
     font-size: 55px;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    margin-top: 40px;
   }
   #winTxt4 {
-    font-size: 6vw;
+    font-size: 30px;
+    margin-bottom: 40px;
   }
   #loseTxt1 {
     font-size: 60px;

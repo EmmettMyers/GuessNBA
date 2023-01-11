@@ -149,7 +149,7 @@ function App(game) {
 
       <div className="flex justify-evenly mt-5">
         <form className="flex">
-          <input id="typeName" className="rounded-l p-2 pl-3" type="text" name="name" />
+          <input autoComplete="off" id="typeName" className="rounded-l p-2 pl-3" type="text" name="name" />
           <div id="nameBtn" onClick={enterGuess} className="cursor-pointer bg-green-500 text-green-900 font-bold rounded-r p-2 pl-4 pr-4">Enter</div>
         </form>
       </div>
