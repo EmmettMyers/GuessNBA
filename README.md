@@ -8,7 +8,7 @@
 
 <b>GuessNBA is a mobile-based web game in which a user has to guess a random NBA player based on three of their stats, or more if they need hints.</b>
 
-The program scrapes NBA data from the website basketball-reference.com and find information about a random player.<br>
+The program scrapes NBA data from the website basketball-reference.com and finds information about a random player.<br>
 
   <b>Tools used:</b>
  - JavaScript - React
