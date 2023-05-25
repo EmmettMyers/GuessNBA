@@ -1,6 +1,6 @@
 # GuessNBA
 
-[Live Demo](https://drive.google.com/file/d/13nnKTg7-8vtTcfH8g6AGDbO4fOUHspUh/view)&nbsp;&nbsp;|&nbsp;&nbsp;<i>Created: Winter Break 2022-2023 (College Freshman)</i>
+<i>Created: Winter Break 2022-2023 (College Freshman)</i>
 
 <a href="https://drive.google.com/uc?export=view&id=1ZGLkKBFjeByl71LjRh5G_VeTxNDpC36z"><img src="https://drive.google.com/uc?export=view&id=1ZGLkKBFjeByl71LjRh5G_VeTxNDpC36z" style="width: 200px; max-width: 100%; height: auto" title="Click to enlarge picture" />
  
