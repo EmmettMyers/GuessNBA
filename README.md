@@ -2,9 +2,11 @@
 
 <i>Created: Winter Break 2022-2023 (College Freshman)</i>
 
+<div style="display: flex;">
 <a href="https://drive.google.com/uc?export=view&id=1ZGLkKBFjeByl71LjRh5G_VeTxNDpC36z"><img src="https://drive.google.com/uc?export=view&id=1ZGLkKBFjeByl71LjRh5G_VeTxNDpC36z" style="width: 200px; max-width: 100%; height: auto" title="Click to enlarge picture" />
  
  <a href="https://drive.google.com/uc?export=view&id=1AkN_7AublNACn8mwXWN5gNJIG3ZUHwDr"><img src="https://drive.google.com/uc?export=view&id=1AkN_7AublNACn8mwXWN5gNJIG3ZUHwDr" style="width: 200px; max-width: 100%; height: auto" title="Click to enlarge picture" />
+  </div>
 
 <b>GuessNBA is a mobile-based web game in which a user has to guess a random NBA player based on three of their stats, or more if they need hints.</b>
 
