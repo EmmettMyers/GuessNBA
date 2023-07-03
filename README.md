@@ -11,5 +11,5 @@ The program scrapes NBA data from the website basketball-reference.com and finds
   <b>Tools used:</b>
  - JavaScript - React
  - Python - Flask
- - CSS - Tailwind
+ - HTML/CSS - Tailwind
  - Beautiful Soup
