@@ -3,8 +3,8 @@
 <i>Created: Winter Break 2022-2023 (College Freshman)</i>
 
 <div style="display: flex;">
-  <img src="client/public/guessnba2" style="width: 300px"/>
-  <img src="client/public/guessnba1" style="width: 300px"/>
+  <img src="client/public/guessnba2.png" style="width: 300px"/>
+  <img src="client/public/guessnba1.png" style="width: 300px"/>
 </div>
 
 <b>GuessNBA is a mobile-based web game in which a user has to guess a random NBA player based on three of their stats, or more if they need hints.</b>
