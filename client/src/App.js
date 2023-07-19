@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import ReactDOM from 'react-dom/client';
-import './App.css';
+import './style/Game.css';
 import Home from './index';
 
 function App(game) {
