@@ -1,6 +1,7 @@
 import setPage from "..";
 
-const EndGame = (won, game, player, guesses, hints) => {
+const EndGame = ({ won, game, player, guesses, hints }) => {
+    alert(won + " " + game + " " + player + " " + guesses + " " + hints)
     return (
         <>
             {won ?
